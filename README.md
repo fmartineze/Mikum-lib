@@ -48,3 +48,8 @@ References
 ==========
 
 The RouterOS API is documented here: http://wiki.mikrotik.com/wiki/Manual:API
+
+Licence
+=======
+
+This library is released under the Apache 2.0 licence. See the [Licence.md](Licence.md) file
