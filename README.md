@@ -40,7 +40,7 @@ if (mkum.Connect() && mkum.Login()){
 	MessageBox.Show(ProfileName);
   }
 }
-mkum.Disconect(); 
+mkum.Disconnect(); 
 
 ```
 

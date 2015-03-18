@@ -83,7 +83,7 @@ namespace mikumlib
                 return false;
             }
         }
-        public void Disconect() // Disconnect from Mikrotik.
+        public void Disconnect() // Disconnect from Mikrotik.
         {
             scon.Close();
             con.Close();
